@@ -1,0 +1,2 @@
+# StudentManagementSystem
+C++/Qt achieve
